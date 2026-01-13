@@ -9,8 +9,7 @@ export default function Page() {
       <header className="header">
         <h1 className="title">Drinks Library</h1>
         <p className="subtitle">
-          Browse every drink with glass, garnish, ingredients, and method notes.
-          Use the search to filter by anything.
+          Jangan salah masukin lu, jangan bikin gw malu.
         </p>
       </header>
       <DrinkGrid drinks={drinks} />
